@@ -24,7 +24,7 @@
   --mwnf-color-text: #ffff00;
   --mwnf-color-background: #4f7942;
   --mwnf-color-accent: #6495ed;
-  --mwnf-color-muted: #555555;
+  --mwnf-color-muted: #ffff00;
   --mwnf-color-border: #e0e0e0;
   --mwnf-content-width: 100%;
   --mwnf-content-padding: 0rem;
@@ -151,7 +151,7 @@
   --mwnf-languages-active-text: #ffffff;
   --mwnf-media-background: #4f7942;
   --mwnf-media-thumb-active-border: 2px solid #6495ed;
-  --mwnf-media-caption-color: #555555;
+  --mwnf-media-caption-color: #ffff00;
   --mwnf-popover-border: 2px solid #6495ed;
   --mwnf-popover-title-background: #cc7722;
   --mwnf-grid-card-background: rgba(204, 119, 34, 0.85);
@@ -227,4 +227,15 @@
      alongside this story. */
   --mwnf-partner-list-group-title-size: 1.25rem;
   --mwnf-partner-list-group-title-color: #ffff00;
+
+  /* ---------- Content: the popup and the notes on the secondary ground ---------- */
+  /* The logo popup, the muted notes (captions, credits, counts, card numbers)
+     and the record's source id take the secondary ground's colours, as
+     legacy's #popup and panels did. The layout's own defaults assume a white
+     ground, which a deployment's secondary colour need not be. */
+  --mwnf-popup-logo-bg: #4f7942;
+  --mwnf-popup-logo-color: #ffff00;
+  --mwnf-popup-logo-close-color: #ffff00;
+  --mwnf-card-number-color: #ffff00;
+  --mwnf-sheet-source-uid-color: #ffff00;
 }
