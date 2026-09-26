@@ -16,7 +16,7 @@
     "namespace": "artsInDialogue"
   },
   "dependencies": {
-    "@museumwnf/arts-in-dialogue-data": "^1.0.3",
+    "@museumwnf/arts-in-dialogue-data": "^1.0.5",
     "@museumwnf/viewer-core": "^2.5.1",
     "@museumwnf/viewer-i18n": "^6.0.0",
     "@museumwnf/viewer-layout": "^3.2.1",
