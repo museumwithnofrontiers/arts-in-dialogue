@@ -1,0 +1,64 @@
+[
+  {
+    "image": "chrome/thematic_gallery/thg_galleries/54/logo/31/1.jpg",
+    "alt": "artsInDialogue.sponsors.logo31",
+    "href": "https://mnk.pl/",
+    "category": "Footer 3",
+    "category_id": 3,
+    "visible": true,
+    "display_order": 1
+  },
+  {
+    "image": "chrome/thematic_gallery/thg_galleries/54/logo/34/1.jpg",
+    "alt": "artsInDialogue.sponsors.logo34",
+    "href": "https://www.smb.museum/museen-einrichtungen/museum-fuer-islamische-kunst/home/",
+    "category": "Footer 4",
+    "category_id": 4,
+    "visible": true,
+    "display_order": 1
+  },
+  {
+    "image": "chrome/thematic_gallery/thg_galleries/54/logo/29/1.jpg",
+    "alt": "artsInDialogue.sponsors.logo29",
+    "href": "https://www.unaoc.org/",
+    "category": "Footer 1",
+    "category_id": 1,
+    "visible": true,
+    "display_order": 1
+  },
+  {
+    "image": "chrome/thematic_gallery/thg_galleries/54/logo/28/1.jpg",
+    "alt": "artsInDialogue.sponsors.logo28",
+    "href": "https://european-union.europa.eu/index_en",
+    "category": "Header",
+    "category_id": 0,
+    "visible": true,
+    "display_order": 1
+  },
+  {
+    "image": "chrome/thematic_gallery/thg_galleries/54/logo/30/1.jpg",
+    "alt": "artsInDialogue.sponsors.logo30",
+    "href": "https://avicom.mini.icom.museum/",
+    "category": "Footer 2",
+    "category_id": 2,
+    "visible": true,
+    "display_order": 1
+  },
+  {
+    "image": "chrome/thematic_gallery/thg_galleries/54/logo/32/1.jpg",
+    "alt": "artsInDialogue.sponsors.logo32",
+    "href": "https://www.man.es/man/en/home",
+    "category": "Footer 3",
+    "category_id": 3,
+    "visible": true,
+    "display_order": 2
+  },
+  {
+    "image": "chrome/thematic_gallery/thg_galleries/54/logo/33/1.jpg",
+    "alt": "artsInDialogue.sponsors.logo33",
+    "category": "Footer 3",
+    "category_id": 3,
+    "visible": true,
+    "display_order": 3
+  }
+]
